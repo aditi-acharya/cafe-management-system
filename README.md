@@ -23,8 +23,8 @@ A menu-driven console app in C that simulates a small cafe workflow with **Admin
 
 ## Build & run
 gcc cafe_management.c -o cafe_management
-./cafe_management   
-.\cafe_management.exe  
+- ./cafe_management    # Linux/macOS
+- .\cafe_management.exe  #Windows
 
 ## Limitations & ideas to extend
 - **Current**: No quantities per order line, no data persistence, sales tracked only in session.
